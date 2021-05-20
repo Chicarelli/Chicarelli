@@ -10,7 +10,7 @@
     Passionate about solving problems and discovering new ways and tools to keep doing this.
     I'm graduated :mortar_board: in Analysis and Systems Development, and I'm currently working with
     <ul>
-       <li>:squirrel: AngularJS</li>
+       <li>:triangular_ruler: AngularJS</li>
        <li>:elephant: PHP</li>
        <li>:vhs: SQL</li>
        <li>:zap: NodeJS</li>
