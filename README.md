@@ -2,7 +2,8 @@
 <h1>Hi, I'm Rafael Chicarelli</h1>
 </div>
 
-Hi, I'm  Rafael Chicarelli, a Full Stack Developer from Brazil.
+Hi, I'm  Rafael Chicarelli, a Full Stack Developer from Brazil.</br>
+
 Currently, I'm a developer at Fidelizii and Freelancer. Outside of work, I enjoy series, football and other sports. 
 <img align="right" src="./images/programming.jpg" alt="Programming image"/>
 Passionate about solving problems and discovering new ways and tools to keep doing this.
