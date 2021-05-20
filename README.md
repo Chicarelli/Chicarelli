@@ -1,7 +1,7 @@
 <div style="border-bottom: 1px solid gray; width: 100%;">
 <h1>Hi, I'm Rafael Chicarelli</h1>
 </div>
-<a href="https://www.linkedin.com/in/rafael-chicarelli-dev/" target="_blank" stlye="padding: 5px; outline: none; border: 1px solid blue; color: #FFF; background: cyan">Linkedin</a>
+<a href="https://www.linkedin.com/in/rafael-chicarelli-dev/" target="_blank" stlye="padding: 5px; outline: none; border: 1px solid blue; color: #FFF; background: cyan; text-decoration: none;">Linkedin</a>
 
 <p>Hi, I'm  Rafael Chicarelli, a Full Stack Developer from Brazil.
 Currently, I'm a developer at Fidelizii and Freelancer. Outside of work, I enjoy series, football and other sports.</p>
