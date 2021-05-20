@@ -19,7 +19,7 @@
        <li>:wrench: Git</li>
     </ul>
   </div>
-  <div style="width: 40%;">
+  <div style="width: 40%; style="display: flex;">
     <img src="./images/programming.jpg" alt="Programming image"></img>
   </div>
 </div>
