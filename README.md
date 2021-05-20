@@ -8,23 +8,18 @@
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 49%;">
     <p>Passionate about solving problems and discovering new ways and tools to keep doing this.</p>
-    <p>I'm graduated :mortar_board: in Analysis and Systems Development, and I'm currently working on </p>
+    <p>I'm graduated :mortar_board: in Analysis and Systems Development, and I'm currently working with</p>
+    <ul>
+       <li>:squirrel:AngularJS</li>
+       <li>:elephant: PHP</li>
+       <li>:vhs: SQL</li>
+       <li>:zap: NodeJS</li>
+       <li>:book: React</li>
+       <li>:cloud: AWS - Lambda, Dynamo, Api Gateway</li>
+       <li>:wrench: Git</li>
+    </ul>
   </div>
   <div style="width: 49%;">
     <img src="./images/programming.jpg" alt="Programming image"></img>
   </div>
 </div>
-<!--
-**Chicarelli/Chicarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
