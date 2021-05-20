@@ -5,8 +5,8 @@
 Hi, I'm  Rafael Chicarelli, a Full Stack Developer from Brazil.
 Currently, I'm a developer at Fidelizii and Freelancer. Outside of work, I enjoy series, football and other sports. 
 
-<img align="right" src="./images/programming.jpg" alt="Programming image"/>
 Passionate about solving problems and discovering new ways and tools to keep doing this.
+<img align="right" src="./images/programming.jpg" alt="Programming image"/>
 I'm graduated :mortar_board: in Analysis and Systems Development, and I'm currently working with
  <ul>
   <li>:triangular_ruler: AngularJS</li>
