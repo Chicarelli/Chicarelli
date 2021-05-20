@@ -1,5 +1,16 @@
-<div style="border-bottom: 1px solid gray; width: 100%; ">
-<h2>Hi, I'm Rafael Chicarelli</h2>
+<div style="border-bottom: 1px solid gray; width: 100%; padding-bottom: 5px;">
+<h1>Hi, I'm Rafael Chicarelli</h1>
+</div>
+
+<p>Hi, I'm  Rafael Chicarelli, a Full Stack Developer from Brazil.</p>
+<p>Currently, I'm a developer at Fidelizii and Freelancer. Outside of work, I enjoy series, football and other sports. </p></br>
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 49%;">
+  </div>
+  <div style="width: 49%;">
+    <img src="./images/programming.jpg" alt="Programming image"></img>
+  </div>
 </div>
 
 <!--
