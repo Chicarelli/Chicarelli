@@ -1,4 +1,6 @@
-### Hi there 👋
+<div style="border-bottom: 1px solid gray; width: 100%; ">
+<h2>Hi, I'm Rafael Chicarelli</h2>
+</div>
 
 <!--
 **Chicarelli/Chicarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
