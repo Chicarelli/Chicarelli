@@ -6,7 +6,6 @@
 <p>Currently, I'm a developer at Fidelizii and Freelancer. Outside of work, I enjoy series, football and other sports. </p></br>
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="width: 40%; display:flex; flex-direction: column;">
     Passionate about solving problems and discovering new ways and tools to keep doing this.
     I'm graduated :mortar_board: in Analysis and Systems Development, and I'm currently working with
     <ul>
@@ -18,8 +17,5 @@
        <li>:cloud: AWS - Lambda, Dynamo, Api Gateway</li>
        <li>:wrench: Git</li>
     </ul>
-  </div>
-  <div style="width: max-content; display: flex;">
-    <img src="./images/programming.jpg" alt="Programming image"></img>
-  </div>
+    <img align="right" src="./images/programming.jpg" alt="Programming image"></img>
 </div>
