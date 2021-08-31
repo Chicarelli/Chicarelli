@@ -12,6 +12,10 @@ Currently, I'm working with PHP/Laravel, ReactJS, AngularJS and AWS. Outside of 
 
 <p>Passionate about solving problems and discovering new ways and tools to keep doing this.
 I'm graduated :mortar_board: in Analysis and Systems Development.
+  
+  <b>Links: </b>
+  <a href="https://www.linkedin.com/in/rafael-chicarelli-dev/" target="_blank">Linkedin</a>
+  <a href="https://codepen.io/rafael-chicarelli" target="_blank">Codepen</a>
 <!--  and I'm currently working with</p> -->
 <!--  <ul>
   <li>:triangular_ruler: AngularJS</li>
